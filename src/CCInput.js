@@ -12,6 +12,7 @@ import {
 const s = StyleSheet.create({
   baseInputStyle: {
     color: "black",
+    flex: 1,
   },
 });
 
